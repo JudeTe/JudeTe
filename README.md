@@ -7,6 +7,7 @@
 # Resume
 * To be continue.
 
+# GitHub stats
 ![Jude's GitHub stats](https://github-readme-stats.vercel.app/api?username=judete&show_icons=true&theme=radical)
 
 
