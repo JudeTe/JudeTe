@@ -1,5 +1,12 @@
 # Hi, I'm Jude 👋
 
+* Back-end Enginner and also responsible for Front-end
+* Coding Language: Python, Javascript
+* Used Framework: Django, Vue.js
+
+# Resume
+* To be continue.
+
 ![Jude's GitHub stats](https://github-readme-stats.vercel.app/api?username=judete&show_icons=true&theme=radical)
 
 
