@@ -5,7 +5,7 @@
 * Used Framework: Django, Vue.js
 
 # Resume
-* To be continue.
+* To be updated
 
 
 <!--
