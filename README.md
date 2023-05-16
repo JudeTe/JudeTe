@@ -1,6 +1,6 @@
 # Hi, I'm Jude 👋
 
-* Back-end Enginner and also responsible for Front-end
+* Back-end Enginner and also responsible for Front-end works
 * Coding Language: Python, Javascript
 * Used Framework: Django, Vue.js
 
